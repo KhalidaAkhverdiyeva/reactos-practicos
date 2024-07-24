@@ -15,7 +15,7 @@ const CustomNavbar = () => {
           <Link to="/About" className="text-white hover:text-gray-300">About</Link>
         </li>
         <li>
-          <Link to="/Services" className="text-white hover:text-gray-300">Services</Link>
+          <Link to="/Blog" className="text-white hover:text-gray-300">Blog</Link>
         </li>
         <li>
           <Link to="/Contact" className="text-white hover:text-gray-300">Contact</Link>
